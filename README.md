@@ -32,21 +32,21 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>React PullToRefresh component</b></a></td>
+      <td><a href=""><b></b></a></td>
       <td><img alt="Stars" src=""/></td>
       <td><img alt="Forks" src=""/></td>
       <td><img alt="Issues" src=""/></td>
       <td><img alt="Pull Requests" src=""/></td>
     </tr>
 	  <tr>
-      <td><a href=""><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td><a href=""><b></b></a></td>
       <td><img alt="Stars" src=""/></td>
       <td><img alt="Forks" src=""/></td>
       <td><img alt="Issues" src=""/></td>
       <td><img alt="Pull Requests" src=""/></td>
     </tr>
     <tr>
-      <td><a href=""><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><a href=""><b></b></a></td>
       <td><img alt="Stars" src=""/></td>
       <td><img alt="Forks" src=""/></td>
       <td><img alt="Issues" src=""/></td>
@@ -56,12 +56,13 @@
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href=""><b><img src="" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>.</i></li>
-  <li><a href=""><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
+<li>PlaceHolder 1</li>
+<li>PlaceHolder 2</li>
+<li>PlaceHolder 3</li>
+<li>PlaceHolder 4</li>
+<li>PlaceHolder 5</li>
+<li>PlaceHolder 6</li>
+
 </ul>
 <h3>Welcome to <img src="https://cdn3.emoji.gg/emojis/7466-canadian-flag.png" width="30" height="30" alt="Canadian_Flag"> Toronto!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
