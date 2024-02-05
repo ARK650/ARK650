@@ -19,41 +19,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href=""><b></b></a></td>
-      <td><img alt="Stars" src=""/></td>
-      <td><img alt="Forks" src=""/></td>
-      <td><img alt="Issues" src=""/></td>
-      <td><img alt="Pull Requests" src=""/></td>
-    </tr>
-	  <tr>
-      <td><a href=""><b></b></a></td>
-      <td><img alt="Stars" src=""/></td>
-      <td><img alt="Forks" src=""/></td>
-      <td><img alt="Issues" src=""/></td>
-      <td><img alt="Pull Requests" src=""/></td>
-    </tr>
-    <tr>
-      <td><a href=""><b></b></a></td>
-      <td><img alt="Stars" src=""/></td>
-      <td><img alt="Forks" src=""/></td>
-      <td><img alt="Issues" src=""/></td>
-      <td><img alt="Pull Requests" src=""/></td>
-    </tr>
-  </tbody>
-</table>
+
 <h3>My latest posts</h3>
 <ul>
 <li>PlaceHolder 1</li>
