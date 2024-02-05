@@ -20,16 +20,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>My latest posts</h3>
-<ul>
-<li>PlaceHolder 1</li>
-<li>PlaceHolder 2</li>
-<li>PlaceHolder 3</li>
-<li>PlaceHolder 4</li>
-<li>PlaceHolder 5</li>
-<li>PlaceHolder 6</li>
-
-</ul>
 <h3>Welcome to <img src="https://cdn3.emoji.gg/emojis/7466-canadian-flag.png" width="30" height="30" alt="Canadian_Flag"> Toronto!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @canada </a><br/>Currently, the weather is: <b> 6°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>08:20</b> and sets at <b>15:37</b>.</p>
