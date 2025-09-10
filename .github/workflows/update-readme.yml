@@ -1,0 +1,24 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Update README with dynamic content
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          readme_path: 'README.md'
+          feed_list: "https://www.instagram.com/destination_toronto"
+          max_post_count: 3
+          weather_api_key: ${{ secrets.WEATHER_API_KEY }}
+          weather_location: "Toronto,Canada"
+          weather_unit: "metric"
+          instagram_user_name: "destination_toronto"
