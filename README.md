@@ -1,60 +1,131 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+Ark%2C+a+Fullstack+Developer;Currently+living+in+Toronto%2C+Canada" alt="Typing SVG" /></p>
-
----
-
-### 🚀 Things I code with
-
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-
----
-
+<!-- Banner Image -->
 <div align="center">
-
-### 📈 My GitHub Stats & Contributions
-
-![ARK650's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARK650&show_icons=true&theme=radical)
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ARK650/ARK650/output/snake.svg)
-
+  <img src="https://github.com/ARK650/ARK650/assets/62994355/81eb2e0e-e768-45ab-8ae1-098ecb27db13" alt="banner" width="100%">
 </div>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ark!;" />
+</h1>
 
-### 🌤️ Weather in Toronto
+<h3 align="center">Frontend Developer & Web Designer</h3>
 
-<!--START_SECTION:weather-->
-<!--END_SECTION:weather-->
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFya2J2MnBiZm1vdWI5anU4NnV4NGFvczVlbG1jbm4xcmN0dmM2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qXJTU5oEhQZO/giphy.gif" width="300" alt="Gaming Animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjN2MDM2MXVodWtxN3hyOG5zcW42NzBjbW5mZmpzaGV0Z3RpbWN6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE6BkPbJlQwM0hy/giphy.gif" width="300" alt="Car Animation">
+</div>
 
----
+<br/>
 
-### 🇨🇦 Welcome to Toronto!
+<div align="center">
+  <a href="mailto:arkthedeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ark-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ark650.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-Here are the last 3 pictures posted by [@destination_toronto](https://www.instagram.com/destination_toronto) on Instagram.
+<hr/>
 
-<!--START_SECTION:instagram-->
-<!--END_SECTION:instagram-->
+<div align="center">
+  <h2>🚀 About Me</h2>
+  <p>
+    I'm a passionate front-end developer and web designer focused on building clean, responsive, and user-friendly applications. 
+    Currently pursuing my Postgraduate Certificate in Web Development at Humber Polytechnic, 
+    where I'm sharpening my skills in front-end development, UI/UX design, and the MERN stack.
+  </p>
+  <p>
+    🎮 Gaming enthusiast | 🏎️ Car aficionado | 💻 Tech lover
+  </p>
 
----
+  <h3>I'm open to:</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li>💼 Collaborating on interesting projects</li>
+    <li>🌐 Freelance work</li>
+    <li>⏱️ Part-time opportunities</li>
+  </ul>
+  
+  <p>If you have an idea or project you'd like to work on together, feel free to reach out!</p>
+</div>
 
-### 📫 Where to find me
+<div align="center">
+  <h2>🛠️ My Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
+</div>
 
-<p align="center">
-<a href="https://github.com/ARK650" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,python,laravel,nodejs,express,mongodb,git" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,materialui,nextjs,firebase,mysql,redux,sass" />
+</div>
+
+<div align="center">
+  <h2>⚡ Current Focus</h2>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📊 GitHub Stats:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=ARK650&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARK650&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARK650&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=ARK650&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <h2>🎮 Gaming Section</h2>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI3eGRxaWlkN3Z1YWY5aTVtMzhndXpoeHFncXM1MGxhYzBsajdrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYe2emzPgDYvS/giphy.gif" width="350" alt="Gaming Animation" />
+</div>
+
+<div align="center">
+  <h2>🏎️ Car Enthusiast</h2>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW55NHgyamw3cW84cGVqdDk1YnN1bWVxcXF6amtkbG5mbGNnZG9qbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nSILUHhuVDuWSnS/giphy.gif" width="350" alt="Car Animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ARK650&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+create+something+amazing!" alt="Typing SVG" />
+</div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/ARK650/ARK650/assets/62994355/5c25a85e-8a62-44c7-b4f4-1bd585303dc4" alt="snake"/>
+</div>
