@@ -1,8 +1,11 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
+<p>Welcome to my page! <br/> I'm Ark, a Fullstack Developer in training, currently living in <img src="https://cdn3.emoji.gg/emojis/7466-canadian-flag.png" width="30" height="30" alt="Canadian_Flag"> <b>Toronto, Canada</b>.</p>
 
-<p>Welcome to my page! </br> I'm Ark, Fullstack developer in development currently living in <img src="https://cdn3.emoji.gg/emojis/7466-canadian-flag.png" width="30" height="30" alt="Canadian_Flag"> <b>Toronto, Canada</b> </p>
-<h3>Things I code with</h3>
+---
+
+### 🚀 Things I code with
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -20,11 +23,32 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Welcome to <img src="https://cdn3.emoji.gg/emojis/7466-canadian-flag.png" width="30" height="30" alt="Canadian_Flag"> Toronto!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @canada </a><br/>Currently, the weather is: <b> 6°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>08:20</b> and sets at <b>15:37</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+---
+
+### 🌤️ Weather in Toronto
+
+<!--START_SECTION:weather-->
+<!--END_SECTION:weather-->
+
+---
+
+### 🇨🇦 Welcome to Toronto!
+
+Here are the last 3 pictures posted by [@destination_toronto](https://www.instagram.com/destination_toronto) on Instagram.
+
+<!--START_SECTION:instagram-->
+<!--END_SECTION:instagram-->
+
+---
+
+### 📈 My GitHub Stats
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=ARK650&show_icons=true&theme=radical" alt="ARK650's GitHub Stats" /></p>
+
+---
+
+### 📫 Where to find me
+
+<p>
+<a href="https://github.com/ARK650" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
-
-
