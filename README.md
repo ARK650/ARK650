@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=1200&section=header&text=Hi%20There,%20I'm%20Ark!&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=2000&section=header&text=Hi%20There,%20I'm%20Ark!&fontSize=90&animation=fadeIn" />
 </div>
 
 <!-- Typing Animation -->
