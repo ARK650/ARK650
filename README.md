@@ -9,7 +9,7 @@
 
 <!-- About Me Section with Car Animation -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/JpG2A9P3dPHXaTYrwu/giphy.gif" width="150" />
+  <img src="https://giphy.com/gifs/melt-Q7WzwrAazdhfi" width="150" />
 </div>
 
 ## 🚀 About Me
