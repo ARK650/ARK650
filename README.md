@@ -78,10 +78,6 @@ I am open to collaborating on interesting projects, freelance work, or part-time
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARK650&theme=redical" alt="Contribution Graph" />
 </div>
 
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <img src="https://skyline.github.com/ARK650/2023" width="600" alt="3D Contribution Graph" />
-</div>
 
 <!-- Connect with Me Section with Animations -->
 ## 🌐 Connect With Me
