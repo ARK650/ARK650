@@ -53,14 +53,6 @@ I am open to collaborating on interesting projects, freelance work, or part-time
 
 <p align="center">Avid gamer who enjoys strategy, RPG, and racing games</p>
 
-<!-- Interactive Chess Board -->
-## ♟️ Let's Play Chess!
-
-<div align="center">
-  <a href="https://github.com/ARK650/ARK650/issues/new?title=Chess%3A+Move+e2+to+e4&body=Please+make+your+move.+I+am+playing+as+black%2C+you+are+playing+as+white.%0D%0ACurrently+white+is+next+to+move.%0D%0A%0D%0A%5Bfen%20diagram%5D%0D%0Arnbqkbnr%2Fpppppppp%2F8%2F8%2F8%2F8%2FPPPPPPPP%2FRNBQKBNR%20w%20KQkq%20-%200%201%5B%2Ffen%5D%0D%0A%0D%0AClick+the+%22Submit+new+issue%22+button+below+the+form+to+make+your+move.">
-    <img src="https://readme-chess-board.vercel.app/board/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-_0_1.svg">
-  </a>
-</div>
 
 <p align="center">
   <b>It's your turn to play!</b> Click the board to make a move (creates a new issue)
