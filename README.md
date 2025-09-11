@@ -48,7 +48,7 @@ I am open to collaborating on interesting projects, freelance work, or part-time
 <!-- Gaming Section with Animation -->
 ## 🎮 Gaming Enthusiast
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1ia2dwcGFkbWZ0MjBqZjByNmpveG1uam81djlnODIzYnY4NDI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" width="350" />
 </div>
 
 <p align="center">Avid gamer who enjoys strategy, RPG, and racing games</p>
