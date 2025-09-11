@@ -9,7 +9,7 @@
 
 <!-- About Me Section with Car Animation -->
 <div align="center">
-  <img src="[https://giphy.com/gifs/melt-Q7WzwrAazdhfi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9wd3dweWRtb3pxY2JxamR6endpcjI1cHlrZTJkNHBqbGxreTRhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7WzwrAazdhfi/giphy.gif)" width="150" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9wd3dweWRtb3pxY2JxamR6endpcjI1cHlrZTJkNHBqbGxreTRhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7WzwrAazdhfi/giphy.gif" width="270" />
 </div>
 
 ## 🚀 About Me
