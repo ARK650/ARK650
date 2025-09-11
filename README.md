@@ -40,7 +40,7 @@ I am open to collaborating on interesting projects, freelance work, or part-time
 <!-- Car Enthusiast Section with Animation -->
 ## 🏎️ Car Enthusiast
 <div align="center">
-  <img src="https://media.giphy.com/media/iJgXKwiopV0KZN4V8G/giphy.gif" width="350" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9wd3dweWRtb3pxY2JxamR6endpcjI1cHlrZTJkNHBqbGxreTRhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7WzwrAazdhfi/giphy.gif" width="350" />
 </div>
 
 <p align="center">Passionate about high-performance vehicles, car design, and automotive technology</p>
