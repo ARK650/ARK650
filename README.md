@@ -54,10 +54,6 @@ I am open to collaborating on interesting projects, freelance work, or part-time
 <p align="center">Avid gamer who enjoys strategy, RPG, and racing games</p>
 
 
-<p align="center">
-  <b>It's your turn to play!</b> Click the board to make a move (creates a new issue)
-</p>
-
 <!-- GitHub Stats Section with Animations -->
 ## 📊 GitHub Stats
 
