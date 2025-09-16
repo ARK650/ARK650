@@ -97,12 +97,12 @@ I am open to collaborating on interesting projects, freelance work, or part-time
 
 <!-- Car Animation in Footer -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohs4gSs3V0Q7qOtKU/giphy.gif" width="150" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d1NzZrOWgzczlmNmw2Mmp4aHk2b2p3ajE0YnFmYTA2djc5MXplMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.gif" width="150" />
 </div>
 
 <!-- Game Controller Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/12QMzVeF4QsqTC/giphy.gif" width="150" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR2Z3doejk0NWtybWt3bjg1ZnQ2MmF2ZWg0bTdsMWQ1dXo5bTF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r3liXXQxXOyJi/giphy.gif" />
 </div>
 
 <!-- Footer -->
