@@ -62,10 +62,6 @@ I am open to collaborating on interesting projects, freelance work, or part-time
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARK650&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARK650&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
